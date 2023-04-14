@@ -1,0 +1,8 @@
+C:\Users\upass\OneDrive\Рабочий стол\курсы\п3_задание1\bin\Debug\п3_задание1.exe.config
+C:\Users\upass\OneDrive\Рабочий стол\курсы\п3_задание1\bin\Debug\п3_задание1.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\п3_задание1\bin\Debug\п3_задание1.pdb
+C:\Users\upass\OneDrive\Рабочий стол\курсы\п3_задание1\obj\Debug\п3_задание1.csproj.AssemblyReference.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\п3_задание1\obj\Debug\п3_задание1.csproj.SuggestedBindingRedirects.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\п3_задание1\obj\Debug\п3_задание1.csproj.CoreCompileInputs.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\п3_задание1\obj\Debug\п3_задание1.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\п3_задание1\obj\Debug\п3_задание1.pdb
